@@ -56,3 +56,11 @@ TUM
 
 Kitti
 ![3D model Kitti](resources/3Dmodel-Kitti.png)
+
+## Credits
+This undertaking constitutes the hands-on component of the course "3D Scanning and Motion Capturing" at the Technical University of Munich. The roster of team participants includes:
+
+- Anish Pathak
+- Guowen Huang
+- Wenzhao Tang
+- Xiaoheng Hu
